@@ -1,3 +1,5 @@
+#Motivational Quotes Project
+
 Motivational Quotes Project
 Overview
 This project is a simple and elegant web application that displays motivational quotes to inspire users. It offers a dynamic collection of quotes that can be refreshed, providing a new quote with each click. The quotes can come from a predefined database, an API, or a combination of both.
